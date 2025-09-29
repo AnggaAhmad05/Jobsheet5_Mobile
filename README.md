@@ -47,18 +47,46 @@ Menjalankan aplikasi di perangkat Android menggunakan Wi-Fi dengan menghubungkan
    <img width="1640" height="929" alt="image" src="https://github.com/user-attachments/assets/760c6729-59e0-4242-9c4d-01915e5cc77d" />
 
 #Praktikum 4: Menerapkan Widget Dasar#   
-1. Buat folder baru basic_widgets di dalam folder lib. Kemudian buat file baru di dalam basic_widgets dengan nama text_widget.dart
+1. Langkah 1:Text Widget, Buat folder baru basic_widgets di dalam folder lib. Kemudian buat file baru di dalam basic_widgets dengan nama text_widget.dart
 <img width="586" height="289" alt="image" src="https://github.com/user-attachments/assets/9e503990-5657-41ba-b37a-afc33414d72b" />
 
 2. import file text_widget.dart ke main.dart, lalu ganti bagian text widget dengan kode di atas.
 
 <img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/56d333ab-ebb9-45bb-b379-871e468c89b1" />
 
-3. 
+3. Langkah 2: Image Widget, Buat sebuah file image_widget.dart
+   Lakukan penyesuaian asset pada file pubspec.yaml dan tambahkan file logo Anda di folder assets project hello_world.
+<img width="662" height="179" alt="image" src="https://github.com/user-attachments/assets/d711dfc0-9a0d-46ea-847e-a370bc290f48" />
      
+4. Menyesuaikan kode dan import di main.dart, kemuddian menjalankan program
 
+<img width="1916" height="1006" alt="image" src="https://github.com/user-attachments/assets/d7b9483b-237c-47e2-83ab-37902b9b92fc" />
 
-   
+Praktikum 5: Menerapkan Widget Material Design dan iOS Cupertino
+
+1. Langkah 1: Cupertino Button dan Loading Bar
+
+   <img width="940" height="542" alt="image" src="https://github.com/user-attachments/assets/5df5de2b-e2a2-48df-b22d-565cc960db5a" />
+
+2. Langkah 2: Floating Action Button (FAB)
+
+   <img width="940" height="546" alt="image" src="https://github.com/user-attachments/assets/5daf6c72-dfbb-452e-be5e-d936ebb20c25" />
+
+3. Langkah 3: Scaffold Widget
+
+   <img width="940" height="576" alt="image" src="https://github.com/user-attachments/assets/4c99224b-736f-4dc6-adb6-f24d6ed22e2e" />
+
+4. Langkah 4: Dialog Widget
+
+   <img width="940" height="494" alt="image" src="https://github.com/user-attachments/assets/fb780350-9899-42ed-8661-60385ff37a0c" />
+
+5. Langkah 5: Input dan Selection Widget
+
+   <img width="940" height="578" alt="image" src="https://github.com/user-attachments/assets/8cb8052a-c925-4dc3-b732-96713fa885da" />
+
+6. Langkah 6: Date and Time Pickers
+
+   <img width="940" height="583" alt="image" src="https://github.com/user-attachments/assets/7f2ec54a-bf7d-40cb-9772-8da007a12eb4" />
 
 
 
