@@ -6,6 +6,7 @@ Kelas: SIB-3F
 #Praktikum 1: Membuat Project Flutter Baru#
 1. pilih flutter New Aplication project
 <img width="725" height="301" alt="image" src="https://github.com/user-attachments/assets/cd4c061f-4a59-4a2c-a220-5e73dc8b051c" />
+
 2. Memilih direktori project
    <img width="1015" height="592" alt="image" src="https://github.com/user-attachments/assets/67bf3865-cd06-4faa-9165-63438bfaa13d" />
 3. Buat nama project flutter hello_world
@@ -29,6 +30,25 @@ Menjalankan aplikasi di perangkat Android menggunakan Wi-Fi dengan menghubungkan
 <img width="613" height="115" alt="image" src="https://github.com/user-attachments/assets/160dcf75-dff7-40d0-ac1e-876a4ddd10fc" />
 7.Flutter berhasil dijalankan
 <img width="539" height="870" alt="image" src="https://github.com/user-attachments/assets/dc2ee8e9-127d-47e6-a69b-166ee96aef8a" />
+
+ #Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum#
+1. Login aku github kemudian membuat repository baru
+    <img width="940" height="455" alt="image" src="https://github.com/user-attachments/assets/1ced5154-f86e-4410-94ff-8701c55c7f47" />
+
+2. Repository baru berhasil dibuat
+   <img width="710" height="596" alt="image" src="https://github.com/user-attachments/assets/d876ba43-5c91-4c57-a88b-cad01836587b" />
+   
+3. Memasukan project hello world pada repository dengan melakukan commit dan push
+<img width="940" height="443" alt="image" src="https://github.com/user-attachments/assets/89777ef1-fb6e-4f4e-9b77-8a290675f041" />
+   
+4. Menjalankan flutter
+   <img width="1734" height="999" alt="image" src="https://github.com/user-attachments/assets/e637bc19-82fd-48fc-9dfa-ea8d9a492fae" />
+5. mengubah teks yang ditampilkan menjadi nama
+   <img width="1640" height="929" alt="image" src="https://github.com/user-attachments/assets/760c6729-59e0-4242-9c4d-01915e5cc77d" />
+
+#Praktikum 4: Menerapkan Widget Dasar#   
+  
+
 
    
 
